@@ -1,16 +1,13 @@
-## Hi there 👋
+</div>
 
-<!--
-**achillesofphthia/achillesofphthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  $${\color{rgb(54, 55, 59)}{\textsf}berrysfan}$$ ⠀⠀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://files.catbox.moe/hmxcfi.jpg)
+
+$${\color{black}{\textsf}hand in hand, to hell and back}$$ ⠀⠀🍙
+
+![](https://i.imgur.com/hzlAtoI.gif) ![](https://y2k.neocities.org/stamps/tumblr_pgef2uZbKY1xzybrpo2_100.png) ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/e447eebb-a32f-4e0b-bcf1-95f071a4ce20/dcslzr6-356ccd06-0899-4e9a-9417-d213dc6ca447.png)
+
+</div>
