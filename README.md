@@ -14,6 +14,6 @@
 
 <sub>$\color{rgb(127, 88, 68)}{\textsf{curiouser and curiouser..!}}$ ⠀⠀🩸
 
-\color{rgb(127, 88, 68)}{\textsf{![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=achillesofphthia)}}
+\color{rgb(127, 88, 68)}\textsf{![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=achillesofphthia)}
 
 </div>
