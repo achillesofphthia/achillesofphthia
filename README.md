@@ -3,7 +3,7 @@
 <div align="center">
 
 
-    <sub>$\color{rgb(110, 50, 10)}{\textsf{🗡️ one hand, one heart}}
+<sub>$\color{rgb(110, 50, 10)}{\textsf{🗡️ one hand, one heart}}<sub>
   ⠀
 
 ![](https://files.catbox.moe/yahdjd.png)
