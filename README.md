@@ -6,7 +6,7 @@
    $\color{rgb(110, 50, 10)}{\textsf{🗡️ one hand, one heart}}$
 
 
-![width="100"](https://files.catbox.moe/yahdjd.png)
+![width="50"](https://files.catbox.moe/yahdjd.png)
 
 
  [<img src="https://files.catbox.moe/axu6ny.png" width="100">](https://rentry.co/peleion)  [<img src="https://files.catbox.moe/7ieidm.png" width="100">](https://en.pronouns.page/@akhilleus) 
