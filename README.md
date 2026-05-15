@@ -3,10 +3,10 @@
 <div align="center">
 
 
-⠀ ![](https://komarev.com/ghpvc/?username=achillesofphthia&abbreviated=true&label=greeks⠀🐾&color=c3927d)
+⠀ ![](https://komarev.com/ghpvc/?username=achillesofphthia&abbreviated=true&label=STARS&color=9c361c)
 
 
-![](https://files.catbox.moe/cm6sgz.jpeg)
+![](https://files.catbox.moe/il2f0v.png)
 
 wip
 
