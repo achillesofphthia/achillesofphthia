@@ -3,7 +3,7 @@
 
 <div align="left"> 
    
-![](https://files.catbox.moe/s1ji6w.png) <div align="right">
+![](https://files.catbox.moe/vwsee2.png) <div align="right">
 
 
 we're gonna die young!!
