@@ -1,7 +1,8 @@
 </div>
 
 
-<div align="right">             we're gonna die young!!
+<div align="right">
+             we're gonna die young!!
 
 <div align="left">
    
