@@ -3,10 +3,9 @@
 
 <div align="right">
 
-</div>
 
 we're gonna die young!!
 
-<div align="left">
+</div>
    
    ![](https://files.catbox.moe/s1ji6w.png)
