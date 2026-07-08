@@ -5,4 +5,5 @@
    
 ![](https://files.catbox.moe/kwztil.jpg) 
 
-$\color{rgb(43, 59, 87)}{\textsf{th}}\color{rgb(61, 78, 104)}{\textsf{er }}\color{rgb(85, 100, 121)}{\textsf{e i}}\color{rgb(99, 99, 121)}{\textsf{s n}}\color{rgb(127, 105, 127)}{\textsf{o r}}\color{rgb(136, 123, 134)}{\textsf{ea}}\color{rgb(154, 144, 159)}{\textsf{so}}\color{rgb(139, 129, 109)}{\textsf{n t}}\color{rgb(118, 176, 89)}{\textsf{o f}}\color{rgb(183, 105, 109)}{\textsf{ea}}\color{rgb(221, 133, 110)}{\textsf{r l}}\color{rgb(245, 155, 135)}{\textsf{it}}\color{rgb(243, 174, 153)}{\textsf{tl}}\color{rgb(250, 201, 178)}{\textsf{e a}}\color{rgb(252, 223, 195)}{\textsf{ut}\color{rgb(254, 232, 202)}{\textsf{ob}\color{rgb(254, 250, 223)}{\textsf{ot.}$
+
+$\color{rgb(84, 16, 11)}{\textsf{fo}}\color{rgb(97, 20, 15)}{\textsf{ols }}\color{rgb(107, 25, 19)}{\textsf{pla}}\color{rgb(115, 33, 22}{\textsf{y fo}}\color{rgb(128, 42, 27}{\textsf{llow }}\color{rgb(138, 53, 32}{\textsf{the }}\color{rgb(150, 69, 36}{\textsf{le}}\color{rgb(163, 79, 38}{\textsf{ad}}\color{rgb(179, 101, 46}{\textsf{er}}$⠀⠀
