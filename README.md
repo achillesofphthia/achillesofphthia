@@ -1,9 +1,9 @@
 </div>
 
 
-<div align="left"> 
+<div align="center"> 
    
-![](https://files.catbox.moe/vwsee2.png) <div align="right">
+![](https://files.catbox.moe/kwztil.jpg) 
 
 
 we're gonna die young!!
