@@ -8,3 +8,6 @@
 ![](https://files.catbox.moe/ekowp5.gif) 
 
 
+thanks locket
+
+
